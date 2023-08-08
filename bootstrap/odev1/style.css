@@ -1,0 +1,84 @@
+.head h1 {
+    color: coral;
+    text-align: center;
+    font-size: 45px;
+}
+
+.navbar {
+    text-align: center;
+}
+.navbar a {
+    padding: 5px;
+}
+
+.caption {
+    text-align: center;
+}
+.caption h1 {
+    color: crimson;
+    font-size: 35px;
+}
+
+.product-info {
+    text-align: center;
+    margin-top: 45px;
+}
+
+.product-info h3{
+   color: coral;
+}
+
+.product-info ul {
+    list-style-position: inside;
+}
+
+.product-item {
+    text-align: center;
+}
+
+.product-item img{
+    height: 350px;
+}
+
+.product-item button {
+    background-color: burlywood;
+    padding:10px 25px;
+    border-radius: 10px;
+    border: none;
+}
+.product-item button:hover{
+    opacity: .8;
+}
+
+.product-item {
+    margin-top: 20px;
+}
+
+.vizyon h3 {
+    color: darksalmon;
+    font-size: 25px;
+}
+.misyon h3 {
+    color: darksalmon;
+    font-size: 25px;
+}
+#about-me p {
+    font-weight: bold;
+}
+
+.btn{
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
